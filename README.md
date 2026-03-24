@@ -11,6 +11,10 @@
   <a href="https://leetcode.com/u/TempusRUS/">
     <img src="https://img.shields.io/badge/Leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
+
+  <a href="https://vk.com/nikolskydenis">
+  <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk"/>
+  </a>
 </div>
 
 
