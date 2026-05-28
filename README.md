@@ -19,7 +19,6 @@
 
 ### About me
 - 🌱 I’m currently learning **Backend, GameDev**
-- 📄 Know about my experiences [CV](https://spb.hh.ru/resume/7462e4d7ff104820180039ed1f426249694478)
 - 📫 Reach me by [email](denis@nikolsky.spb.ru)
 - 🌍 I speak russiand and english
 
