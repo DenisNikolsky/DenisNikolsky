@@ -20,7 +20,7 @@
 ### About me
 - 🌱 I’m currently learning **Backend, GameDev**
 - 📫 Reach me by [email](denis@nikolsky.spb.ru)
-- 🌍 I speak russiand and english
+- 🌍 I speak russian and english
 
 ---
 
