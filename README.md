@@ -1,5 +1,14 @@
 <h1 align="center"> Denis / Backend developer </h1>
 
+##
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+</div>
+
 ###
 
 <div align="center">
@@ -8,17 +17,6 @@
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="Golang logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
 </div>
 
